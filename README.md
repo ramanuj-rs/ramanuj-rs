@@ -65,19 +65,19 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramanuj-rs&show_icons=true&count_private=true&theme=dark" />
 </p>
 
 <!-- Top Languages -->
 <h2 align="center">🚀 Top Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanuj-rs&layout=compact&theme=dark" />
 </p>
 
 <!-- Contribution Graph -->
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ramanuj-rs&theme=react-dark" />
 </p>
 
 <!-- Conclusion -->
