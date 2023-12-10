@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://your-image-url.com/your-profile-image.jpg" alt="Your Name" width="150" />
+<!--   <img src="https://your-image-url.com/your-profile-image.jpg" alt="Your Name" width="150" /> -->
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there! 👋 I'm Ramanuj</h1>
 <p align="center">Computer Science M.Tech | Computer Vision Enthusiast</p>
 
 <!-- Skills & Expertise -->
