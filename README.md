@@ -56,7 +56,7 @@
 
 <!-- Open Source Contribution -->
 <h2 align="center">🌱 Open Source Contribution</h2>
-<p align="center">Actively contributing to open-source projects, fostering collaboration and community engagement.</p>
+<p align="center">Interested in contributing to open-source projects, fostering collaboration and community engagement.</p>
 
 <!-- Contact -->
 <h2 align="center">📫 Contact</h2>
