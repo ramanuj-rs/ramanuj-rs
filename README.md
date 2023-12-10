@@ -35,9 +35,13 @@
 
 <!-- Professional Experience -->
 <h2 align="center">💼 Professional Experience</h2>
+
 <p align="center">
-  [Company/Organization Name 1] | [Company/Organization Name 2]
+  <strong>Assistant Professor:</strong> [Siksha 'O' Aunsandhan University]
+  <br>
+  <strong>Research Scholar:</strong> [National Institute of Technology Silchar]
 </p>
+
 
 <!-- Connect with Me -->
 <h2 align="center">🌐 Connect with Me</h2>
