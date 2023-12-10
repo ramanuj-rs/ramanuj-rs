@@ -8,7 +8,7 @@
 <p align="center">Computer Science M.Tech | Computer Vision Enthusiast</p>
 
 <!-- Skills & Expertise -->
-<h2>🔧 Skills & Expertise</h2>
+<h2 align="center">🔧 Skills & Expertise</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" />
@@ -24,43 +24,61 @@
 </p>
 
 <!-- Education -->
-<h2>📚 Education</h2>
+<h2 align="center">📚 Education</h2>
 <p align="center">Master of Technology (M.Tech) in Computer Science</p>
 
 <!-- Interests -->
-<h2>🚀 Interests</h2>
+<h2 align="center">🚀 Interests</h2>
 <p align="center">
   Computer Vision | Machine Learning | Deep Learning | Data Science | Image Processing | NLP | Medical Imaging | Statistics
 </p>
 
 <!-- Professional Experience -->
-<h2>💼 Professional Experience</h2>
+<h2 align="center">💼 Professional Experience</h2>
 <p align="center">
   [Company/Organization Name 1] | [Company/Organization Name 2]
 </p>
 
 <!-- Connect with Me -->
-<h2>🌐 Connect with Me</h2>
+<h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=blue" />
   </a>
   <a href="https://twitter.com/your-twitter-handle/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" />
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&labelColor=blue" />
   </a>
 </p>
 
 <!-- Open Source Contribution -->
-<h2>🌱 Open Source Contribution</h2>
+<h2 align="center">🌱 Open Source Contribution</h2>
 <p align="center">Actively contributing to open-source projects, fostering collaboration and community engagement.</p>
 
 <!-- Contact -->
-<h2>📫 Contact</h2>
+<h2 align="center">📫 Contact</h2>
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Send%20a%20Message-green?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Send%20a%20Message-green?style=flat&logo=gmail&labelColor=green" />
   </a>
 </p>
 
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark" />
+</p>
+
+<!-- Top Languages -->
+<h2 align="center">🚀 Top Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" />
+</p>
+
+<!-- Contribution Graph -->
+<h2 align="center">📈 Contribution Graph</h2>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark" />
+</p>
+
 <!-- Conclusion -->
-<h2>🌟 Let's Code for a Better Tomorrow! 🚀</h2>
+<h2 align="center">🌟 Let's Code for a Better Tomorrow! 🚀</h2>
