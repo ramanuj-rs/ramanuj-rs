@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/ramanuj-bhattacharjee/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=blue" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle/" target="_blank">
+  <a href="https://twitter.com/RamanujApuBhat" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&labelColor=blue" />
   </a>
 </p>
