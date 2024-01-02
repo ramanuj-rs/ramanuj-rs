@@ -46,7 +46,7 @@
 <!-- Connect with Me -->
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://[www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/ramanuj-bhattacharjee?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9Xok52AqTcGwpLyMjOlD5Q%3D%3D)" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/ramanuj-bhattacharjee/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=blue" />
   </a>
   <a href="https://twitter.com/your-twitter-handle/" target="_blank">
