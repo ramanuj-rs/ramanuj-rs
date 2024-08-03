@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi there! 👋 I'm Ramanuj</h1>
-<p align="center">Computer Science M.Tech | Computer Vision Enthusiast</p>
+<p align="center">Artificial Intelligence PHD | Computer Science M.Tech | AI Enthusiast</p>
 
 <!-- Skills & Expertise -->
 <h2 align="center">🔧 Skills & Expertise</h2>
@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-%23025E3D.svg?style=flat&logo=nltk&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" />
@@ -25,18 +26,21 @@
 
 <!-- Education -->
 <h2 align="center">📚 Education</h2>
+<p align="center">Doctor of Philosophy (PHD) in Artificial Intelligence</p>
 <p align="center">Master of Technology (M.Tech) in Computer Science</p>
 
 <!-- Interests -->
 <h2 align="center">🚀 Interests</h2>
 <p align="center">
-  Computer Vision | Machine Learning | Deep Learning | Data Science | Image Processing | NLP | Medical Imaging | Statistics
+Large Language Model (LLM) | Natural Language Processing (NLP) | Computer Vision | Machine Learning | Deep Learning | Data Science | Image Processing | Medical Imaging | Statistics
 </p>
 
 <!-- Professional Experience -->
 <h2 align="center">💼 Professional Experience</h2>
 
 <p align="center">
+  <strong>Research Scholar:</strong> [Indian Institute of Technology Kharagpur]
+  <br>
   <strong>Assistant Professor:</strong> [Siksha 'O' Aunsandhan University]
   <br>
   <strong>Research Scholar:</strong> [National Institute of Technology Silchar]
